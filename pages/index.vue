@@ -17,7 +17,7 @@ export default {
       window.dataLayer.push({
         event: 'click_generateObituary',
         obituary_id: 9999,
-        erp_case_id: 1234567890
+        erp_case_id: '1234567890'
       })
     }
   }
